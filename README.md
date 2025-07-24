@@ -1,7 +1,7 @@
 https://github.com/user-attachments/assets/6c10e0c5-e57e-4845-9285-75f08c58ed53
 
 <div align="center">
-  <img src="https://kardiasociologia.org/wp-content/uploads/2024/04/apresentacao1-1.gif?w=1024" alt="Sistema Solar" height="200">
+  <img src="https://github.com/user-attachments/assets/78901cb7-3fc8-4cad-b4d4-4a3f639d36a8" alt="Sistema Solar" height="200">
 </div>
 <h1 align="center">  
   Sistema Solar – Explorando os Planetas e Suas Luas  
@@ -36,7 +36,7 @@ Cada planeta é exibido com imagens impactantes e transições suaves, proporcio
 <br>
 
 Planetas:  
-- 🌍 **Galeria de veículos** (esportivos, clássicos, luxo)  
+- 🌍 **Planetas e suas luas** 
 - 🔍 **Descrição** 
 - 💡 **Detalhes** 
 
@@ -63,7 +63,7 @@ Planetas:
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/ManoRicck/03-Garagem_de_Carros.git
+git clone https://github.com/ManoRicck/06-Sistema_Solar.git
 ```
 2. Execute o arquivo html:
 ```bash

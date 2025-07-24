@@ -1,6 +1,31 @@
 https://github.com/user-attachments/assets/6c10e0c5-e57e-4845-9285-75f08c58ed53
 
-🌌 Sistema Solar – Explorando os Planetas e Suas Luas
+<div align="center">
+  <img src="https://kardiasociologia.org/wp-content/uploads/2024/04/apresentacao1-1.gif?w=1024" alt="Sistema Solar" height="200">
+</div>
+<h1 align="center">  
+  Sistema Solar – Explorando os Planetas e Suas Luas  
+</h1>  
+
+<div align="center">  
+  <img src="https://img.shields.io/badge/HTML5-Estrutura-orange?logo=html5&style=for-the-badge" alt="HTML5" height="30">  
+  <img src="https://img.shields.io/badge/CSS3-Estilo-blue?logo=css3&style=for-the-badge" alt="CSS3" height="30">  
+</div>  
+
+<br>  
+
+<div align="center">  
+
+| Tecnologia | Uso no Projeto | Documentação |  
+|------------|----------------|--------------|  
+| <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png" width="20"> **HTML5** | Estruturação da página | [HTML5 Reference](https://developer.mozilla.org/pt-BR/docs/Web/HTML) |  
+| <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="20"> **CSS3** | Estilização e design responsivo | [CSS Docs](https://developer.mozilla.org/pt-BR/docs/Web/CSS) |  
+
+</div>  
+
+---  
+
+## 🌟 Visão Geral  
 
 Este site é uma jornada visual pelo Sistema Solar, oferecendo uma apresentação interativa de todos os planetas que orbitam o Sol, além de informações sobre suas principais luas. Cada planeta é apresentado com uma breve descrição que destaca suas características físicas, curiosidades e importância astronômica.
 
@@ -8,6 +33,53 @@ Você encontrará desde o pequeno e rochoso Mercúrio até os gigantes gasosos c
 
 Cada planeta é exibido com imagens impactantes e transições suaves, proporcionando uma navegação intuitiva e agradável para quem deseja explorar o universo de forma simples e educativa.
 
-🔗 [Clique aqui para acessar o site e explorar o Sistema Solar](https://6-sistema-solar.vercel.app/)
+<br>
 
-Perfeito para estudantes, professores, apaixonados por astronomia ou qualquer pessoa que queira aprender mais sobre os planetas e suas luas de maneira visual e interativa.
+Planetas:  
+- 🌍 **Galeria de veículos** (esportivos, clássicos, luxo)  
+- 🔍 **Descrição** 
+- 💡 **Detalhes** 
+
+---  
+
+
+## 📦 Estrutura do Projeto  
+
+```tree
+├── Sistema Solar/
+│   ├── css/
+│   │   └── style.css
+│   └── img/
+│   │    ├── descrição/
+│   │    ├── luas/
+│   │    └── planetas/
+│   ├── index.html
+│   └── README.md
+
+```
+
+
+## 🚀 Como Executar Localmente
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/ManoRicck/03-Garagem_de_Carros.git
+```
+2. Execute o arquivo html:
+```bash
+index.html
+```
+
+
+## ✉️ Contato
+
+Para dúvidas, sugestões ou parcerias:
+
+- 👤 Autor: ManoRicck
+- 📧 Email: henriqueexpedito964@gmail.com
+- 🧠 GitHub: github.com/ManoRicck
+
+## 📄 Licença
+
+Este projeto está licenciado sob a Licença MIT.<br>
+Sinta-se livre para usar, modificar e distribuir com os devidos créditos.
